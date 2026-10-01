@@ -1,6 +1,6 @@
 ### Hi everyone! 👋
 
-My name is Shirley Bi, and I am currently a Biomedical Sciences PhD Candidate in Nicole DelRosso's Lab at UCSF. I am interested in understanding the properties that turn genes on and off, and how misregulation of transcription occurs in disease.
+My name is Shirley Bi, and I am currently a Biomedical Sciences PhD Candidate in the DelRosso Lab at UCSF. I am interested in understanding the properties that turn genes on and off, and how misregulation of transcription occurs in disease.
 
 <!--
 **shirley-bi321/shirley-bi321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
